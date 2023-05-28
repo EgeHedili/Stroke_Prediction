@@ -1,4 +1,4 @@
-# Stroke_Prediction
+# Stroke Prediction
 
 Requirements: <br>
 pip install requests <br>
